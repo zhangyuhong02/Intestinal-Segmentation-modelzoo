@@ -1,0 +1,4 @@
+beautifulsoup4
+nibabel
+hausdorff==0.1.8
+SimpleITK
